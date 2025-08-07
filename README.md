@@ -17,14 +17,7 @@ Este projeto é uma aplicação frontend construída com **React.js** e **Vite**
 
 > Certifique-se de ter o **Node.js (v16 ou superior)** instalado.
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-```
-
-2. Instale as dependências:
+Instale as dependências:
 
 ```bash
 npm install
